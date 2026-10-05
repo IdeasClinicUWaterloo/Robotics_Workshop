@@ -29,4 +29,20 @@ Across this hands-on 3-day workshop, you will tackle real problems from the manu
 - Tune and optimize your model
 - Compete against other teams for the most accurate model!
 
+### LEARNING PATH
 
+[Step 0 - Arduino IDE Setup](Day%202/00_arduino_setup.ipynb)
+
+[Step 1 - Edge Impulse Data Forwarder Setup](Day%202/01_setting_up_edge_impulse.ipynb)
+
+[Step 2 - Circuit Setup](Day%202/02_motor_setup.ipynb)
+
+[Step 3 - Collecting Data](Day%202/03_data_acquisition.ipynb)
+
+[Step 4 - Cleaning Data](Day%202/04_data_cleaning.ipynb)
+
+[Step 5 - Designing an Impulse](Day%202/05_create_impulse.ipynb)
+
+[Step 6 - Train and Test Your Model](Day%202/06_model_training_and_testing.ipynb)
+
+### [COMPETE](Day%203/07_day_3_instructions.ipynb)
