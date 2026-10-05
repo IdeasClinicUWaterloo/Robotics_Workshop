@@ -1,5 +1,7 @@
 # Welcome to the Robotics and Fault Prediction workshop!
 
+<img src = "Magna.png">
+
 Modern manufacturing relies on hundreds of highly reliable machines working together to maintain efficiency and productivity. However, even with advanced equipment, unexpected machine downtime continues to cost industries millions of dollars each year in lost output, delayed operations, and increased maintenance expenses.
 
 Across this hands-on 3-day workshop, you will tackle real problems from the manufacturing and automotive sectors by learning how to build and train machine learning models that detect and predict motor failures before they happen.
@@ -26,3 +28,5 @@ Across this hands-on 3-day workshop, you will tackle real problems from the manu
 
 - Tune and optimize your model
 - Compete against other teams for the most accurate model!
+
+
