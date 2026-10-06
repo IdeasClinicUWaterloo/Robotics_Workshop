@@ -46,3 +46,5 @@ Across this hands-on 3-day workshop, you will tackle real problems from the manu
 [Step 6 - Train and Test Your Model](Day%202/06_model_training_and_testing.ipynb)
 
 ### [COMPETE](Day%203/07_day_3_instructions.ipynb)
+
+Documentation By: Arushi Basu & Saashi Sood
