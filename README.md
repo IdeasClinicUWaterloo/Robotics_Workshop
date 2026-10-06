@@ -43,7 +43,9 @@ Across this hands-on 3-day workshop, you will tackle real problems from the manu
 
 [Step 5 - Designing an Impulse](Day%202/05_create_impulse.ipynb)
 
-[Step 6 - Train and Test Your Model](Day%202/06_model_training_and_testing.ipynb)
+[Step 6 - Spectral Analysis](Day%202/06_spectral_features.ipynb)
+
+[Step 7 - Train and Test Your Model](Day%202/07_model_training_and_testing.ipynb)
 
 ### [COMPETE](Day%203/07_day_3_instructions.ipynb)
 
