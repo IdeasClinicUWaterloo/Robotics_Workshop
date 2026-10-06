@@ -47,4 +47,7 @@ Across this hands-on 3-day workshop, you will tackle real problems from the manu
 
 ### [COMPETE](Day%203/07_day_3_instructions.ipynb)
 
-Documentation By: Arushi Basu & Saashi Sood
+---
+
+Documentation By: 
+Arushi Basu & Saashi Sood
